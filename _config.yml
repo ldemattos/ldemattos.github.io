@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Leonardo M. N. de Mattos 
+  url:          http://ldemattos.github.io
+  email:        leonardo@mattos.eng.br
 
 # Custom vars
 version:        3.4.1
