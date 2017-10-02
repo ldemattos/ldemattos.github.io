@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Dominus Veritas
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://ldemattos.github.io/"
 
 # Assets
 sass:
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Leonardo M. N. de Mattos 
-  url:          http://ldemattos.github.io
+  url:          https://ldemattos.github.io
   email:        leonardo@mattos.eng.br
 
 # Custom vars
